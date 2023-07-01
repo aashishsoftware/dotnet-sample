@@ -1,0 +1,7 @@
+/Users/alexandruserban/Desktop/demo-dotnet/demo-dotnet/publish/demo-dotnet
+/Users/alexandruserban/Desktop/demo-dotnet/demo-dotnet/publish/appsettings.Development.json
+/Users/alexandruserban/Desktop/demo-dotnet/demo-dotnet/publish/appsettings.json
+/Users/alexandruserban/Desktop/demo-dotnet/demo-dotnet/publish/demo-dotnet.dll
+/Users/alexandruserban/Desktop/demo-dotnet/demo-dotnet/publish/demo-dotnet.deps.json
+/Users/alexandruserban/Desktop/demo-dotnet/demo-dotnet/publish/demo-dotnet.runtimeconfig.json
+/Users/alexandruserban/Desktop/demo-dotnet/demo-dotnet/publish/demo-dotnet.pdb
